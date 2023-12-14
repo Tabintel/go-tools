@@ -1,0 +1,1 @@
+function greet(e){console.log(`Hello, ${e}!`)}greet("John");function multiply(e,t){return e*t}console.log(multiply(3,4))
